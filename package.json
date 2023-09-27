@@ -24,7 +24,7 @@
   "devDependencies": {
     "@types/jest": "^27.4.1",
     "@types/node": "^20.7.0",
-    "@types/react": "^18.2.22",
+    "@types/react": "^18.2.23",
     "eslint": "8.50.0",
     "eslint-config-next": "13.5.3",
     "jest": "^27.5.1",
